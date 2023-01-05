@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi Welcome, i'm SUMI KIM 👋
+
+🛠️ Stacks
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
+<img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=css3&logoColor=white"/>
+
+💪🏼 Tools
 
 <!--
 **summer-o3o/summer-o3o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
