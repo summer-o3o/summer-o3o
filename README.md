@@ -1,7 +1,7 @@
 ### Hi Welcome, i'm SUMI KIM 👋
-반갑습니다~!🙇‍♀️
-제 이름은 김수미이고 현재 프론트엔드 개발자로 직종 변경을위해 공부하고 있어요!
-이전에는 html,css만 집중적으로 하는 UI개발자였어요!🤔
+반갑습니다~!🙇‍♀️<br>
+제 이름은 김수미이고 현재 프론트엔드 개발자로 직종 변경을위해 공부하고 있어요!<br>
+이전에는 html,css만 집중적으로 하는 UI개발자였어요!🤔<br>
 저의 주 업무는 k사의 커머스 마크업 및 접근성 등을 했습니다~ 💕
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer-o3o&show_icons=true&theme=radical)
