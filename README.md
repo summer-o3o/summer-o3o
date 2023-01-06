@@ -4,8 +4,6 @@
 이전에는 html,css만 집중적으로 하는 UI개발자였어요!🤔<br>
 저의 주 업무는 k사의 커머스 마크업 및 접근성 등을 했습니다~ 💕
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer-o3o&show_icons=true&theme=radical)
-
 ## 🛠️ Stacks
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
 
@@ -14,6 +12,7 @@
 
 ## 🍒 Me
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsummer-o3o&count_bg=%23FFC0C0&title_bg=%23FF7474&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer-o3o&show_icons=true&theme=radical)
 
 <!--
 **summer-o3o/summer-o3o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
