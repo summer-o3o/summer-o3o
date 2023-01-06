@@ -11,8 +11,8 @@
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Slack" src ="https://img.shields.io/badge/Slack-181717.svg?&style=flat-square&logo=Slack&logoColor=white"/>
 
 ## 🍒 Me
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer-o3o&show_icons=true&theme=radical)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsummer-o3o&count_bg=%23FFC0C0&title_bg=%23FF7474&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer-o3o&show_icons=true&theme=radical)
 
 <!--
 **summer-o3o/summer-o3o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
