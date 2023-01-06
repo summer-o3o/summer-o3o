@@ -3,7 +3,7 @@
 제 이름은 김수미이고 현재 프론트엔드 개발자로 직종 변경을위해 공부하고 있어요!<br>
 이전에는 html,css만 집중적으로 하는 UI개발자였어요!🤔<br><br>
 저는 k사 공동체에 근무했었고<br>
-주 업무는 k사 커머스 마크업 및 접근성 등을 했습니다~ 💕
+주 업무는 k사 마크업 및 접근성 대응 등을 했습니다~ 💕
 
 ## 🛠️ Stacks
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="css3" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
