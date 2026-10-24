@@ -12,17 +12,6 @@
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <img alt="Git
 " src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=Slack&logoColor=white"/>
 
-## 🍒 Me
-<!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=summer-o3o&show_icons=true&theme=radical)<br><br> -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsummer-o3o&count_bg=%23FFC0C0&title_bg=%23FF7474&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## ⭐️ Project repository
-
-🎬 CGV<br />
-https://github.com/summer-o3o/43-2nd-See-Other-frontend<br />
-
-👟 닥터마틴<br />
-https://github.com/summer-o3o/43-1st-soleMates-frontend
 
 
 
